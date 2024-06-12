@@ -1,0 +1,250 @@
+{"level":"info","message":"Server running on port 2000","service":"blogging-api","timestamp":"2024-06-02 08:14:13"}
+{"level":"error","message":"querySrv ETIMEOUT _mongodb._tcp.cardinalapi.h3osrto.mongodb.net","service":"blogging-api","timestamp":"2024-06-02 08:14:13"}
+{"level":"info","message":"Server running on port 2000","service":"blogging-api","timestamp":"2024-06-02 08:14:19"}
+{"level":"error","message":"querySrv ETIMEOUT _mongodb._tcp.cardinalapi.h3osrto.mongodb.net","service":"blogging-api","timestamp":"2024-06-02 08:14:19"}
+{"level":"info","message":"Server running on port 2000","service":"blogging-api","timestamp":"2024-06-03 01:51:17"}
+{"level":"info","message":"mongoDB connected...","service":"blogging-api","timestamp":"2024-06-03 01:51:20"}
+{"level":"info","message":"Server running on port 2000","service":"blogging-api","timestamp":"2024-06-03 01:58:50"}
+{"level":"info","message":"mongoDB connected...","service":"blogging-api","timestamp":"2024-06-03 01:58:53"}
+{"level":"info","message":"Server running on port 2000","service":"blogging-api","timestamp":"2024-06-03 01:59:00"}
+{"level":"info","message":"mongoDB connected...","service":"blogging-api","timestamp":"2024-06-03 01:59:02"}
+{"level":"info","message":"Server running on port 2000","service":"blogging-api","timestamp":"2024-06-03 01:59:18"}
+{"level":"info","message":"mongoDB connected...","service":"blogging-api","timestamp":"2024-06-03 01:59:20"}
+{"level":"info","message":"Server running on port 2000","service":"blogging-api","timestamp":"2024-06-03 02:03:24"}
+{"level":"info","message":"mongoDB connected...","service":"blogging-api","timestamp":"2024-06-03 02:03:26"}
+{"level":"error","message":"Blog is not defined","service":"blogging-api","timestamp":"2024-06-03 02:03:47"}
+{"level":"info","message":"Server running on port 2000","service":"blogging-api","timestamp":"2024-06-03 02:12:11"}
+{"level":"info","message":"mongoDB connected...","service":"blogging-api","timestamp":"2024-06-03 02:12:14"}
+{"level":"info","message":"Server running on port 2000","service":"blogging-api","timestamp":"2024-06-03 02:12:37"}
+{"level":"info","message":"mongoDB connected...","service":"blogging-api","timestamp":"2024-06-03 02:12:40"}
+{"level":"info","message":"Server running on port 2000","service":"blogging-api","timestamp":"2024-06-03 02:12:55"}
+{"level":"info","message":"mongoDB connected...","service":"blogging-api","timestamp":"2024-06-03 02:12:58"}
+{"level":"info","message":"Server running on port 2000","service":"blogging-api","timestamp":"2024-06-03 02:16:51"}
+{"level":"info","message":"mongoDB connected...","service":"blogging-api","timestamp":"2024-06-03 02:16:54"}
+{"level":"info","message":"Server running on port 2000","service":"blogging-api","timestamp":"2024-06-03 02:24:25"}
+{"level":"info","message":"mongoDB connected...","service":"blogging-api","timestamp":"2024-06-03 02:24:28"}
+{"level":"info","message":"Server running on port 2000","service":"blogging-api","timestamp":"2024-06-03 02:25:17"}
+{"level":"info","message":"mongoDB connected...","service":"blogging-api","timestamp":"2024-06-03 02:25:20"}
+{"level":"info","message":"Server running on port 2000","service":"blogging-api","timestamp":"2024-06-03 02:25:28"}
+{"level":"info","message":"mongoDB connected...","service":"blogging-api","timestamp":"2024-06-03 02:25:31"}
+2024-06-03T01:26:46.992Z info: Server running on port 2000
+2024-06-03T01:26:49.523Z error: User.findone is not a function
+2024-06-03T01:26:50.102Z info: mongoDB connected...
+2024-06-03T01:41:07.718Z info: Server running on port 2000
+2024-06-03T01:41:07.761Z error: querySrv ETIMEOUT _mongodb._tcp.cardinalapi.h3osrto.mongodb.net
+2024-06-03T01:41:27.095Z info: Server running on port 2000
+2024-06-03T01:41:29.502Z info: mongoDB connected...
+2024-06-03T01:41:34.903Z error: User.findone is not a function
+2024-06-03T01:44:35.144Z info: Server running on port 2000
+2024-06-03T01:44:49.672Z info: mongoDB connected...
+2024-06-03T01:45:01.893Z info: Server running on port 2000
+2024-06-03T01:45:05.388Z info: mongoDB connected...
+2024-06-03T01:45:08.301Z error: secretOrPrivateKey must have a value
+2024-06-03T01:47:58.811Z info: Server running on port 2000
+2024-06-03T01:48:05.348Z info: mongoDB connected...
+2024-06-03T01:48:10.258Z info: Server running on port 2000
+2024-06-03T01:48:12.507Z info: mongoDB connected...
+2024-06-03T01:50:19.264Z info: Server running on port 2000
+2024-06-03T01:50:22.434Z info: mongoDB connected...
+2024-06-03T01:50:25.530Z error: User already exists
+2024-06-03T01:50:53.221Z error: secretOrPrivateKey must have a value
+2024-06-03T01:51:38.399Z info: Server running on port 2000
+2024-06-03T01:51:41.399Z info: mongoDB connected...
+2024-06-03T01:52:02.320Z info: Server running on port 2000
+2024-06-03T01:52:04.878Z info: mongoDB connected...
+2024-06-03T01:52:19.833Z info: Server running on port 2000
+2024-06-03T01:52:22.280Z info: mongoDB connected...
+2024-06-03T01:56:20.826Z error: secretOrPrivateKey must have a value
+2024-06-03T01:58:50.267Z error: secretOrPrivateKey must have a value
+2024-06-03T01:59:01.637Z info: Server running on port 2000
+2024-06-03T01:59:04.581Z info: mongoDB connected...
+2024-06-03T02:00:01.053Z error: User already exists
+2024-06-03T02:03:29.416Z error: Blog is not defined
+2024-06-03T02:05:29.691Z info: Server running on port 2000
+2024-06-03T02:05:43.093Z info: mongoDB connected...
+2024-06-03T02:05:49.559Z error: calculateReadingTime is not defined
+2024-06-03T02:06:21.044Z info: Server running on port 2000
+2024-06-03T02:06:35.022Z error: Not authorized, token failed
+2024-06-03T02:07:02.285Z info: Server running on port 2000
+2024-06-03T02:07:02.303Z error: querySrv ETIMEOUT _mongodb._tcp.cardinalapi.h3osrto.mongodb.net
+2024-06-03T02:07:18.325Z info: Server running on port 2000
+2024-06-03T02:07:18.353Z error: querySrv ETIMEOUT _mongodb._tcp.cardinalapi.h3osrto.mongodb.net
+2024-06-03T02:07:42.702Z info: Server running on port 2000
+2024-06-03T02:07:46.596Z info: mongoDB connected...
+2024-06-03T02:07:49.109Z error: Not authorized, token failed
+2024-06-03T02:10:43.516Z info: Server running on port 2000
+2024-06-03T02:10:46.571Z info: mongoDB connected...
+2024-06-03T02:10:57.625Z error: Not authorized, token failed
+2024-06-03T02:13:41.019Z info: Server running on port 2000
+2024-06-03T02:13:43.729Z info: mongoDB connected...
+2024-06-03T02:14:43.203Z error: Not authorized, token failed
+2024-06-03T02:15:28.158Z info: Server running on port 2000
+2024-06-03T02:15:31.016Z info: mongoDB connected...
+2024-06-03T02:15:42.113Z error: Cannot read properties of undefined (reading '_id')
+2024-06-03T02:16:31.488Z info: Server running on port 2000
+2024-06-03T02:16:34.493Z info: mongoDB connected...
+2024-06-03T02:16:59.778Z error: Cannot read properties of undefined (reading 'id')
+2024-06-03T02:17:20.438Z info: Server running on port 2000
+2024-06-03T02:17:22.576Z info: mongoDB connected...
+2024-06-03T02:17:25.861Z error: Blog validation failed: author: Path `author` is required.
+2024-06-03T02:17:47.832Z info: Server running on port 2000
+2024-06-03T02:17:50.374Z info: mongoDB connected...
+2024-06-03T02:17:57.200Z error: Blog validation failed: author: Cast to ObjectId failed for value "JJ" (type string) at path "author" because of "BSONError"
+2024-06-03T02:18:36.879Z info: Server running on port 2000
+2024-06-03T02:18:39.609Z info: mongoDB connected...
+2024-06-03T02:19:13.348Z error: Cannot read properties of undefined (reading 'id')
+2024-06-03T02:19:26.698Z error: Cannot read properties of undefined (reading 'id')
+2024-06-03T02:20:22.587Z info: Server running on port 2000
+2024-06-03T02:20:25.329Z info: mongoDB connected...
+2024-06-03T02:21:15.812Z error: Not authorized, token failed
+2024-06-03T02:22:51.966Z info: Server running on port 2000
+2024-06-03T02:22:54.689Z info: mongoDB connected...
+2024-06-03T02:23:12.107Z error: Not authorized, token failed
+2024-06-03T02:23:39.999Z info: Server running on port 2000
+2024-06-03T02:23:42.169Z info: mongoDB connected...
+2024-06-03T02:23:51.006Z error: Not authorized, token failed
+2024-06-03T02:24:08.862Z info: Server running on port 2000
+2024-06-03T02:24:11.681Z info: mongoDB connected...
+2024-06-03T02:24:15.278Z error: Not authorized, token failed
+2024-06-03T02:25:04.091Z info: Server running on port 2000
+2024-06-03T02:25:06.565Z info: mongoDB connected...
+2024-06-03T02:25:13.140Z error: Not authorized, token failed
+2024-06-03T02:26:19.005Z info: Server running on port 2000
+2024-06-03T02:26:21.840Z info: mongoDB connected...
+2024-06-03T02:26:26.181Z error: Not authorized, token failed
+2024-06-03T02:27:00.293Z info: Server running on port 2000
+2024-06-03T02:27:02.653Z info: mongoDB connected...
+2024-06-03T02:27:47.392Z error: Not authorized, token failed
+2024-06-03T02:27:49.048Z error: Not authorized, token failed
+2024-06-03T02:28:17.218Z error: Not authorized, token failed
+2024-06-03T02:30:07.037Z error: Invalid email or password
+2024-06-03T02:32:03.606Z error: Not authorized, token failed
+2024-06-07T23:41:15.164Z info: Server running on port 2000
+2024-06-07T23:41:20.955Z info: mongoDB connected...
+2024-06-07T23:57:22.738Z error: Not authorized, token failed
+2024-06-08T00:05:48.923Z error: Not authorized, token failed
+2024-06-08T00:06:19.982Z info: Server running on port 2000
+2024-06-08T00:06:21.380Z error: Not authorized, token failed
+2024-06-08T00:06:23.281Z info: mongoDB connected...
+2024-06-08T00:06:35.280Z error: Not authorized, token failed
+2024-06-08T00:06:49.438Z error: Not authorized, token failed
+2024-06-08T00:07:36.067Z error: Not authorized, token failed
+2024-06-08T00:46:12.972Z error: User already exists
+2024-06-08T00:49:28.576Z info: Server running on port 2000
+2024-06-08T00:49:31.390Z info: mongoDB connected...
+2024-06-08T01:00:40.821Z info: Server running on port 2000
+2024-06-08T01:00:43.485Z error: bad auth : authentication failed
+2024-06-08T01:11:39.081Z info: Server running on port 2000
+2024-06-08T01:11:42.162Z error: bad auth : authentication failed
+2024-06-08T01:19:44.851Z info: Server running on port 2000
+2024-06-08T01:19:48.219Z info: mongoDB connected...
+2024-06-08T01:20:07.190Z error: Not authorized, token failed
+2024-06-08T01:20:53.206Z error: Invalid email or password
+2024-06-08T01:27:05.993Z error: Blog not found
+2024-06-08T01:29:35.012Z error: Blog not found
+2024-06-08T01:29:55.542Z error: Blog not found
+2024-06-08T01:31:19.540Z error: Blog not found
+2024-06-08T01:31:31.407Z error: E11000 duplicate key error collection: test.blogs index: title_1 dup key: { title: "My First Blog" }
+2024-06-08T01:31:43.775Z error: E11000 duplicate key error collection: test.blogs index: title_1 dup key: { title: "My First Blog" }
+2024-06-08T01:34:19.282Z error: Blog not found
+2024-06-08T01:36:51.267Z error: Blog not found
+2024-06-08T01:47:59.927Z info: Server running on port 2000
+2024-06-08T01:48:02.738Z info: mongoDB connected...
+2024-06-08T01:52:09.189Z error: Cast to ObjectId failed for value "your_blog_id" (type string) at path "_id" for model "Blog"
+2024-06-08T01:53:25.844Z error: Cast to ObjectId failed for value "66438c92284174039713dc9" (type string) at path "_id" for model "Blog"
+2024-06-08T01:54:49.703Z error: Cast to ObjectId failed for value "66438c92284174039713dc9" (type string) at path "_id" for model "Blog"
+2024-06-08T01:59:29.179Z error: Cast to ObjectId failed for value "66438c92284174039713dc9" (type string) at path "_id" for model "Blog"
+2024-06-12T12:51:45.328Z info: Server running on port 2000
+2024-06-12T12:51:53.960Z info: mongoDB connected...
+2024-06-12T12:54:06.726Z info: Server running on port 2000
+2024-06-12T12:54:15.096Z error: Blog is not defined
+2024-06-12T12:54:25.456Z info: mongoDB connected...
+2024-06-12T12:54:49.733Z error: Blog is not defined
+2024-06-12T12:55:28.693Z info: Server running on port 2000
+2024-06-12T12:55:42.088Z error: Operation `blogs.find()` buffering timed out after 10000ms
+2024-06-12T12:55:47.531Z info: mongoDB connected...
+2024-06-12T12:56:29.954Z info: Server running on port 2000
+2024-06-12T12:56:47.716Z info: mongoDB connected...
+2024-06-12T12:56:50.684Z error: Blog is not defined
+2024-06-12T12:58:09.449Z info: Server running on port 2000
+2024-06-12T12:58:18.158Z info: mongoDB connected...
+2024-06-12T13:00:43.924Z info: Server running on port 2000
+2024-06-12T13:00:47.431Z info: mongoDB connected...
+2024-06-12T13:04:16.618Z error: Not authorized, token failed
+2024-06-12T13:05:45.165Z error: E11000 duplicate key error collection: test.blogs index: title_1 dup key: { title: "My First Blog" }
+2024-06-12T13:07:39.336Z info: Server running on port 2000
+2024-06-12T13:07:46.999Z info: mongoDB connected...
+2024-06-12T13:07:50.571Z info: Server running on port 2000
+2024-06-12T13:07:55.526Z info: mongoDB connected...
+2024-06-12T13:08:19.188Z error: Blog not found
+2024-06-12T13:08:59.472Z error: Blog not found
+2024-06-12T13:09:05.905Z error: Blog not found
+2024-06-12T13:09:36.409Z error: Blog not found
+2024-06-12T13:12:03.263Z info: Server running on port 2000
+2024-06-12T13:12:20.636Z info: Server running on port 2000
+2024-06-12T13:12:36.475Z info: mongoDB connected...
+2024-06-12T13:16:01.168Z info: Server running on port 2000
+2024-06-12T13:16:03.158Z info: mongoDB connected...
+2024-06-12T13:19:59.707Z info: Server running on port 2000
+2024-06-12T13:20:01.372Z info: mongoDB connected...
+2024-06-12T13:21:02.807Z info: Server running on port 2000
+2024-06-12T13:21:11.610Z info: Server running on port 2000
+2024-06-12T13:21:19.867Z info: mongoDB connected...
+2024-06-12T13:25:33.944Z error: Not authorized, token failed
+2024-06-12T14:22:24.977Z error: Not authorized, token failed
+2024-06-12T14:23:04.630Z info: Server running on port 2000
+2024-06-12T14:23:07.014Z error: Not authorized, token failed
+2024-06-12T14:23:18.818Z info: mongoDB connected...
+2024-06-12T14:23:41.142Z error: "expiresIn" should be a number of seconds or string representing a timespan
+2024-06-12T14:24:27.481Z info: Server running on port 2000
+2024-06-12T14:24:34.794Z info: mongoDB connected...
+2024-06-12T14:24:38.403Z error: User already exists
+2024-06-12T14:25:13.780Z error: User already exists
+2024-06-12T14:25:56.921Z error: Not authorized
+2024-06-12T14:28:25.411Z error: Not authorized
+2024-06-12T14:30:00.253Z info: Server running on port 2000
+2024-06-12T14:30:03.750Z info: mongoDB connected...
+2024-06-12T14:36:42.918Z info: Server running on port 2000
+2024-06-12T14:36:55.697Z error: Not authorized, token failed
+2024-06-12T14:36:58.329Z info: mongoDB connected...
+2024-06-12T14:39:08.479Z info: Server running on port 2000
+2024-06-12T14:39:10.979Z info: mongoDB connected...
+2024-06-12T14:39:11.402Z error: Not authorized
+2024-06-12T14:39:25.929Z info: Server running on port 2000
+2024-06-12T14:39:27.825Z info: mongoDB connected...
+2024-06-12T14:50:21.581Z info: Server running on port 2000
+2024-06-12T14:50:35.275Z info: mongoDB connected...
+2024-06-12T14:50:41.553Z error: Blog not found
+2024-06-12T14:54:58.101Z error: Not authorized, token failed
+2024-06-12T14:57:53.129Z error: E11000 duplicate key error collection: test.blogs index: title_1 dup key: { title: "My First" }
+2024-06-12T15:00:29.801Z info: Server running on port 2000
+2024-06-12T15:00:45.542Z error: Operation `blogs.find()` buffering timed out after 10000ms
+2024-06-12T15:01:00.481Z error: Operation `blogs.find()` buffering timed out after 10000ms
+2024-06-12T15:01:19.681Z error: connection timed out
+2024-06-12T15:02:02.017Z info: Server running on port 2000
+2024-06-12T15:02:05.815Z info: mongoDB connected...
+2024-06-12T15:02:40.272Z info: Server running on port 2000
+2024-06-12T15:02:42.063Z info: mongoDB connected...
+2024-06-12T15:03:43.652Z info: Server running on port 2000
+2024-06-12T15:03:53.834Z info: mongoDB connected...
+2024-06-12T15:04:16.836Z info: Server running on port 2000
+2024-06-12T15:04:40.036Z error: querySrv ETIMEOUT _mongodb._tcp.cluster0.hw9jtmg.mongodb.net
+2024-06-12T15:04:47.610Z info: Server running on port 2000
+2024-06-12T15:05:04.722Z error: Operation `blogs.find()` buffering timed out after 10000ms
+2024-06-12T15:05:08.740Z info: mongoDB connected...
+2024-06-12T15:05:40.918Z error: Not authorized, token failed
+2024-06-12T15:06:25.792Z error: Blog not found
+2024-06-12T15:07:58.033Z error: Not authorized
+2024-06-12T15:08:47.874Z info: Server running on port 2000
+2024-06-12T15:08:57.718Z info: mongoDB connected...
+2024-06-12T15:14:27.680Z info: Server running on port 2000
+2024-06-12T15:14:30.539Z info: mongoDB connected...
+2024-06-12T15:15:45.715Z error: Blog not found
+2024-06-12T15:17:53.330Z error: Blog not found
+2024-06-12T15:28:05.269Z info: Server running on port 2000
+2024-06-12T15:28:11.481Z info: mongoDB connected...
+2024-06-12T15:28:15.147Z info: Server running on port 2000
+2024-06-12T15:28:17.405Z info: mongoDB connected...
+2024-06-12T15:29:09.250Z error: blog.remove is not a function
+2024-06-12T15:34:03.534Z info: Server running on port 2000
+2024-06-12T15:34:06.812Z info: mongoDB connected...
