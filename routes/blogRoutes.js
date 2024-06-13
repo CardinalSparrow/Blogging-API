@@ -1,10 +1,5 @@
-const Blog = require("../models/Blog");
-const calculateReadingTime = require("../utils/calculateReadingTime");
-
 const express = require("express");
 const logger = require("../utils/logger");
-
-//  const {} = require()
 
 const { protect } = require("../middlewares/authMiddleware");
 const {
